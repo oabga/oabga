@@ -16,11 +16,11 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Sinh viên năm 4, chương trình **Tài năng AI thực chiến** tại **VinUniversity**
-- 🤖 Đang trau dồi kỹ năng để trở thành một **AI Engineer**
-- 🧠 Quan tâm đến Machine Learning, Deep Learning, NLP và việc triển khai mô hình AI vào thực tế
-- 🛠️ Thích học qua việc **làm thật** — build project, debug, lặp lại
-- 📫 Liên hệ qua email: **legiabao9873@gmail.com**
+- 🎓 4th-year student in the **Applied AI Talent Program** at **VinUniversity**
+- 🤖 Building the skills to become an **AI Engineer**
+- 🧠 Interested in Machine Learning, Deep Learning, NLP, and shipping AI models into real products
+- 🛠️ I learn best by **doing** — building projects, debugging, iterating
+- 📫 Reach me at: **legiabao9873@gmail.com**
 
 ---
 
@@ -47,9 +47,9 @@
 
 ### 🌱 Currently
 
-- Học sâu về nền tảng AI/ML trong chương trình tài năng tại VinUni
-- Xây dựng các project cá nhân để luyện kỹ năng AI Engineering (data pipeline, model training, deployment)
-- Mở lòng với các cơ hội internship / thực tập liên quan đến AI, Machine Learning
+- Deepening my AI/ML foundations through VinUni's Applied AI Talent Program
+- Building personal projects to practice AI Engineering skills (data pipelines, model training, deployment)
+- Open to internships and opportunities in AI / Machine Learning
 
 ---
 
